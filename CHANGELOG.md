@@ -1,3 +1,8 @@
+## 0.1.2
+
+- Update repository URLs to solearchitect/buildhut_telemetry
+- Update README install version
+
 ## 0.1.1
 
 - Add missing example main

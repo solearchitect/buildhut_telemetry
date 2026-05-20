@@ -35,7 +35,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  buildhut_telemetry: ^0.1.1
+  buildhut_telemetry: ^0.1.2
 ```
 
 ### 2. Get your BuildHut credentials
