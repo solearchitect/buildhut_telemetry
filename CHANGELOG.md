@@ -1,3 +1,7 @@
+## 0.1.3
+
+- Lower dart sdk version constraint
+
 ## 0.1.2
 
 - Update repository URLs to solearchitect/buildhut_telemetry
