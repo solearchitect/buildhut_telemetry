@@ -1,0 +1,33 @@
+name: buildhut_telemetry
+description: >
+  Battery-efficient OpenTelemetry log pusher, frame-rate performance tracer,
+  and structured logger for Flutter. Sends OTLP/JSON v1 logs, traces, and
+  metrics to BuildHut or any OTel Collector.
+version: 0.1.1
+homepage: https://github.com/solearchitect/buildhut_telemetry
+repository: https://github.com/solearchitect/buildhut_telemetry
+issue_tracker: https://github.com/solearchitect/buildhut_telemetry/issues
+
+topics:
+  - opentelemetry
+  - telemetry
+  - logging
+  - performance
+  - buildhut
+
+funding:
+  - https://github.com/sponsors/solearchitect
+
+environment:
+  sdk: ^3.11.5
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0

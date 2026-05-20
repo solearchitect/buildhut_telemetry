@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    # The "if (x != null) 'key': x" pattern is more readable for
+    # conditional map entries than the new null-aware element syntax.
+    use_null_aware_elements: ignore
