@@ -1,3 +1,9 @@
+## 0.1.4
+
+- Wire e2e test suite: loopback OTLP envelope capture, circuit-breaker and
+  retry coverage (payloads verified against a real BuildHut server)
+- Exclude `build/` from analysis
+
 ## 0.1.3
 
 - Lower dart sdk version constraint
